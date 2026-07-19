@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /api/*
+Sitemap: https://guicariolatt-aluarqz6.manus.space/sitemap.xml
